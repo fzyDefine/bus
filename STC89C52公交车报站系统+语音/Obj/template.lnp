@@ -1,0 +1,6 @@
+".\Obj\main.obj",
+".\Obj\uart.obj",
+".\Obj\lcd12864.obj",
+".\Obj\public.obj" 
+TO ".\Obj\template" 
+PRINT(".\Obj\template.m51") RAMSIZE(256) 
